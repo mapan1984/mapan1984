@@ -46,5 +46,6 @@ I'm mapan
 * 生成 readme toc [source code](https://github.com/mapan1984/ReadmeTOC)
 * game of life [source code](https://github.com/mapan1984/gameOfLife) / [preview](https://mapan1984.github.io/gameOfLife/)
 * LangtonAnt [source code](https://github.com/mapan1984/LangtonAnt) / [preview](https://mapan1984.github.io/LangtonAnt/)
+* 生成 ASCII 字符画 [source code](https://github.com/mapan1984/ascii-image) / [preview](https://mapan1984.github.io/ascii-image/)
 
 </details>
