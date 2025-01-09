@@ -27,6 +27,7 @@ I'm mapan
   <summary>解释器</summary>
 
 * brain fuck 解释器(PyBrainFuck) [source code](https://github.com/mapan1984/PyBrainFuck) / [preview](https://github.com/mapan1984/PyBrainFuck)
+* brain fuck 解释器(JsBrainFuck) [source code](https://github.com/mapan1984/JsBrainFuck) / [preview](https://mapan1984.github.io/JsBrainFuck/)
 * Scheme 解释器(js)(Scmjs) [source code](https://github.com/mapan1984/Scmjs) / [preview](https://mapan1984.github.io/Scmjs/)
 * Scheme 解释器(py)(Scmpy) [source code](https://github.com/mapan1984/Scmpy) / [preview](https://scmpy.herokuapp.com/)
 
