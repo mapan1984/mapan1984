@@ -3,7 +3,7 @@
 I'm mapan
 
 <p align="left">
-    <img src="./profile/stats.svg" alt="my github stats" width="420"/>
+    <img src="./profile/stats.svg" alt="my github stats" height="165"/>
     &nbsp;
     <img src="./profile/top-langs.svg" alt="languages" height="165">
 </p>
